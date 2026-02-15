@@ -1,0 +1,769 @@
+Date;Categorie;Legume;Prix;Unite
+2023-01-01;Carotte;Carotte  lavée;2.42;kg
+2023-02-01;Carotte;Carotte  lavée;2.4;kg
+2023-03-01;Carotte;Carotte  lavée;2.5;kg
+2023-04-01;Carotte;Carotte  lavée;2.72;kg
+2023-05-01;Carotte;Carotte  lavée;2.99;kg
+2023-06-01;Carotte;Carotte  lavée;3.17;kg
+2023-07-01;Carotte;Carotte  lavée;2.92;kg
+2023-08-01;Carotte;Carotte  lavée;2.8;kg
+2023-09-01;Carotte;Carotte  lavée;2.51;kg
+2023-10-01;Carotte;Carotte  lavée;2.44;kg
+2023-11-01;Carotte;Carotte  lavée;2.45;kg
+2023-12-01;Carotte;Carotte  lavée;2.51;kg
+2023-01-01;Carotte;Carotte  non lavée;2.79;kg
+2023-02-01;Carotte;Carotte  non lavée;2.77;kg
+2023-03-01;Carotte;Carotte  non lavée;2.75;kg
+2023-04-01;Carotte;Carotte  non lavée;2.85;kg
+2023-05-01;Carotte;Carotte  non lavée;3.33;kg
+2023-06-01;Carotte;Carotte  non lavée;3.5;kg
+2023-07-01;Carotte;Carotte  non lavée;3.27;kg
+2023-08-01;Carotte;Carotte  non lavée;3.21;kg
+2023-09-01;Carotte;Carotte  non lavée;3.06;kg
+2023-10-01;Carotte;Carotte  non lavée;2.87;kg
+2023-11-01;Carotte;Carotte  non lavée;2.72;kg
+2023-12-01;Carotte;Carotte  non lavée;2.79;kg
+2023-05-01;Concombre;Concombre;4.88;kg
+2023-06-01;Concombre;Concombre;4.15;kg
+2023-07-01;Concombre;Concombre;3.98;kg
+2023-08-01;Concombre;Concombre;3.9;kg
+2023-09-01;Concombre;Concombre;4.22;kg
+2023-10-01;Concombre;Concombre;4.47;kg
+2023-11-01;Concombre;Concombre;5.0;kg
+2023-05-01;Concombre;Concombre noa;6.59;kg
+2023-06-01;Concombre;Concombre noa;5.03;kg
+2023-07-01;Concombre;Concombre noa;3.91;kg
+2023-08-01;Concombre;Concombre noa;3.9;kg
+2023-09-01;Concombre;Concombre noa;4.62;kg
+2023-10-01;Concombre;Concombre noa;4.59;kg
+2023-05-01;Concombre;Concombre noa u.e.;4.8;kg
+2023-03-01;Concombre;Concombre u.e.;5.85;kg
+2023-04-01;Concombre;Concombre u.e.;5.05;kg
+2023-05-01;Concombre;Concombre u.e.;4.68;kg
+2023-12-01;Concombre;Concombre u.e.;4.45;kg
+2023-01-01;Butternut;Courge butternut;2.59;kg
+2023-02-01;Butternut;Courge butternut;2.72;kg
+2023-03-01;Butternut;Courge butternut;2.9;kg
+2023-04-01;Butternut;Courge butternut;3.0;kg
+2023-08-01;Butternut;Courge butternut;3.22;kg
+2023-09-01;Butternut;Courge butternut;3.24;kg
+2023-10-01;Butternut;Courge butternut;2.98;kg
+2023-11-01;Butternut;Courge butternut;2.61;kg
+2023-12-01;Butternut;Courge butternut;2.58;kg
+2023-01-01;Potimarron;Courge potimarron;2.62;kg
+2023-02-01;Potimarron;Courge potimarron;3.12;kg
+2023-03-01;Potimarron;Courge potimarron;3.22;kg
+2023-04-01;Potimarron;Courge potimarron;2.84;kg
+2023-08-01;Potimarron;Courge potimarron;3.3;kg
+2023-09-01;Potimarron;Courge potimarron;3.22;kg
+2023-10-01;Potimarron;Courge potimarron;2.84;kg
+2023-11-01;Potimarron;Courge potimarron;2.64;kg
+2023-12-01;Potimarron;Courge potimarron;2.72;kg
+2023-04-01;Courgette;Courgette verte;5.32;kg
+2023-05-01;Courgette;Courgette verte;3.25;kg
+2023-06-01;Courgette;Courgette verte;3.36;kg
+2023-07-01;Courgette;Courgette verte;2.55;kg
+2023-08-01;Courgette;Courgette verte;3.01;kg
+2023-09-01;Courgette;Courgette verte;3.32;kg
+2023-10-01;Courgette;Courgette verte;3.57;kg
+2023-11-01;Courgette;Courgette verte;3.99;kg
+2023-01-01;Courgette;Courgette verte u.e.;3.75;kg
+2023-02-01;Courgette;Courgette verte u.e.;4.36;kg
+2023-03-01;Courgette;Courgette verte u.e.;3.5;kg
+2023-04-01;Courgette;Courgette verte u.e.;3.18;kg
+2023-10-01;Courgette;Courgette verte u.e.;3.52;kg
+2023-11-01;Courgette;Courgette verte u.e.;4.76;kg
+2023-12-01;Courgette;Courgette verte u.e.;5.23;kg
+2023-01-01;Laitue;Laitue batavia;2.89;kg
+2023-02-01;Laitue;Laitue batavia;3.18;kg
+2023-03-01;Laitue;Laitue batavia;3.2;kg
+2023-04-01;Laitue;Laitue batavia;3.24;kg
+2023-05-01;Laitue;Laitue batavia;3.2;kg
+2023-06-01;Laitue;Laitue batavia;3.2;kg
+2023-07-01;Laitue;Laitue batavia;3.09;kg
+2023-08-01;Laitue;Laitue batavia;3.22;kg
+2023-09-01;Laitue;Laitue batavia;3.36;kg
+2023-10-01;Laitue;Laitue batavia;3.4;kg
+2023-11-01;Laitue;Laitue batavia;3.42;kg
+2023-12-01;Laitue;Laitue batavia;3.36;kg
+2023-01-01;Laitue;Laitue feuille de chêne blonde;2.96;kg
+2023-02-01;Laitue;Laitue feuille de chêne blonde;3.09;kg
+2023-03-01;Laitue;Laitue feuille de chêne blonde;3.2;kg
+2023-04-01;Laitue;Laitue feuille de chêne blonde;3.24;kg
+2023-05-01;Laitue;Laitue feuille de chêne blonde;3.22;kg
+2023-06-01;Laitue;Laitue feuille de chêne blonde;3.2;kg
+2023-07-01;Laitue;Laitue feuille de chêne blonde;3.16;kg
+2023-08-01;Laitue;Laitue feuille de chêne blonde;3.2;kg
+2023-09-01;Laitue;Laitue feuille de chêne blonde;3.27;kg
+2023-10-01;Laitue;Laitue feuille de chêne blonde;3.4;kg
+2023-11-01;Laitue;Laitue feuille de chêne blonde;3.49;kg
+2023-12-01;Laitue;Laitue feuille de chêne blonde;3.4;kg
+2023-01-01;Laitue;Laitue feuille de chêne rouge;2.98;kg
+2023-02-01;Laitue;Laitue feuille de chêne rouge;3.09;kg
+2023-03-01;Laitue;Laitue feuille de chêne rouge;3.18;kg
+2023-04-01;Laitue;Laitue feuille de chêne rouge;3.27;kg
+2023-05-01;Laitue;Laitue feuille de chêne rouge;3.22;kg
+2023-06-01;Laitue;Laitue feuille de chêne rouge;3.16;kg
+2023-07-01;Laitue;Laitue feuille de chêne rouge;3.02;kg
+2023-08-01;Laitue;Laitue feuille de chêne rouge;3.18;kg
+2023-09-01;Laitue;Laitue feuille de chêne rouge;3.29;kg
+2023-10-01;Laitue;Laitue feuille de chêne rouge;3.47;kg
+2023-11-01;Laitue;Laitue feuille de chêne rouge;3.47;kg
+2023-12-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2023-01-01;Laitue;Laitue pommée;2.96;kg
+2023-02-01;Laitue;Laitue pommée;3.02;kg
+2023-03-01;Laitue;Laitue pommée;3.18;kg
+2023-04-01;Laitue;Laitue pommée;3.22;kg
+2023-05-01;Laitue;Laitue pommée;3.16;kg
+2023-06-01;Laitue;Laitue pommée;3.18;kg
+2023-07-01;Laitue;Laitue pommée;3.11;kg
+2023-08-01;Laitue;Laitue pommée;3.27;kg
+2023-09-01;Laitue;Laitue pommée;3.24;kg
+2023-10-01;Laitue;Laitue pommée;3.42;kg
+2023-11-01;Laitue;Laitue pommée;3.56;kg
+2023-12-01;Laitue;Laitue pommée;3.47;kg
+2023-01-01;Poireau;Poireau;3.25;kg
+2023-02-01;Poireau;Poireau;3.07;kg
+2023-03-01;Poireau;Poireau;3.13;kg
+2023-04-01;Poireau;Poireau;3.16;kg
+2023-05-01;Poireau;Poireau;4.19;kg
+2023-06-01;Poireau;Poireau;5.09;kg
+2023-07-01;Poireau;Poireau;5.22;kg
+2023-08-01;Poireau;Poireau;5.33;kg
+2023-09-01;Poireau;Poireau;4.63;kg
+2023-10-01;Poireau;Poireau;3.8;kg
+2023-11-01;Poireau;Poireau;3.57;kg
+2023-12-01;Poireau;Poireau;3.55;kg
+2023-01-01;Pomme de terre;Pomme de terre de conservation;2.04;kg
+2023-02-01;Pomme de terre;Pomme de terre de conservation;1.93;kg
+2023-03-01;Pomme de terre;Pomme de terre de conservation;1.96;kg
+2023-04-01;Pomme de terre;Pomme de terre de conservation;2.0;kg
+2023-05-01;Pomme de terre;Pomme de terre de conservation;1.94;kg
+2023-06-01;Pomme de terre;Pomme de terre de conservation;2.08;kg
+2023-07-01;Pomme de terre;Pomme de terre de conservation;2.21;kg
+2023-08-01;Pomme de terre;Pomme de terre de conservation;2.55;kg
+2023-09-01;Pomme de terre;Pomme de terre de conservation;2.53;kg
+2023-10-01;Pomme de terre;Pomme de terre de conservation;2.35;kg
+2023-11-01;Pomme de terre;Pomme de terre de conservation;2.16;kg
+2023-12-01;Pomme de terre;Pomme de terre de conservation;2.19;kg
+2023-03-01;Pomme de terre;Pomme de terre primeur;7.88;kg
+2023-04-01;Pomme de terre;Pomme de terre primeur;7.26;kg
+2023-05-01;Pomme de terre;Pomme de terre primeur;6.54;kg
+2023-06-01;Pomme de terre;Pomme de terre primeur;5.29;kg
+2023-07-01;Pomme de terre;Pomme de terre primeur;3.66;kg
+2023-08-01;Pomme de terre;Pomme de terre primeur;3.09;kg
+2023-05-01;Tomate;Tomate allongée coeur;7.85;kg
+2023-06-01;Tomate;Tomate allongée coeur;6.21;kg
+2023-07-01;Tomate;Tomate allongée coeur;5.03;kg
+2023-08-01;Tomate;Tomate allongée coeur;5.35;kg
+2023-09-01;Tomate;Tomate allongée coeur;5.53;kg
+2023-10-01;Tomate;Tomate allongée coeur;5.98;kg
+2023-05-01;Tomate;Tomate anciennes;8.15;kg
+2023-06-01;Tomate;Tomate anciennes;6.65;kg
+2023-07-01;Tomate;Tomate anciennes;5.69;kg
+2023-08-01;Tomate;Tomate anciennes;5.46;kg
+2023-09-01;Tomate;Tomate anciennes;6.02;kg
+2023-10-01;Tomate;Tomate anciennes;6.36;kg
+2023-11-01;Tomate;Tomate anciennes;6.18;kg
+2023-05-01;Tomate;Tomate cerise;9.16;kg
+2023-06-01;Tomate;Tomate cerise;8.99;kg
+2023-07-01;Tomate;Tomate cerise;9.14;kg
+2023-08-01;Tomate;Tomate cerise;8.78;kg
+2023-09-01;Tomate;Tomate cerise;9.23;kg
+2023-10-01;Tomate;Tomate cerise;9.12;kg
+2023-11-01;Tomate;Tomate cerise;9.57;kg
+2023-07-01;Tomate;Tomate cerise  grappe;5.76;kg
+2023-03-01;Tomate;Tomate cerise u.e.;7.58;kg
+2023-04-01;Tomate;Tomate cerise u.e.;6.44;kg
+2023-05-01;Tomate;Tomate cerise u.e.;7.1;kg
+2023-06-01;Tomate;Tomate cerise u.e.;6.58;kg
+2023-07-01;Tomate;Tomate cerise u.e.;6.82;kg
+2023-04-01;Tomate;Tomate cerise u.e. grappe;6.86;kg
+2023-05-01;Tomate;Tomate cerise u.e. grappe;7.14;kg
+2023-06-01;Tomate;Tomate cerise u.e. grappe;6.22;kg
+2023-06-01;Tomate;Tomate ronde;4.89;kg
+2023-07-01;Tomate;Tomate ronde;4.13;kg
+2023-08-01;Tomate;Tomate ronde;3.41;kg
+2023-09-01;Tomate;Tomate ronde;3.59;kg
+2023-10-01;Tomate;Tomate ronde;4.19;kg
+2023-11-01;Tomate;Tomate ronde;5.04;kg
+2023-05-01;Tomate;Tomate ronde  grappe;6.61;kg
+2023-06-01;Tomate;Tomate ronde  grappe;4.9;kg
+2023-07-01;Tomate;Tomate ronde  grappe;3.36;kg
+2023-08-01;Tomate;Tomate ronde  grappe;2.84;kg
+2023-09-01;Tomate;Tomate ronde  grappe;4.17;kg
+2023-10-01;Tomate;Tomate ronde  grappe;4.89;kg
+2023-11-01;Tomate;Tomate ronde  grappe;4.98;kg
+2023-03-01;Tomate;Tomate ronde u.e. grappe;5.6;kg
+2023-04-01;Tomate;Tomate ronde u.e. grappe;5.36;kg
+2023-05-01;Tomate;Tomate ronde u.e. grappe;5.86;kg
+2023-06-01;Tomate;Tomate ronde u.e. grappe;5.66;kg
+2022-03-01;Carotte;Carotte  lavée;2.04;kg
+2022-04-01;Carotte;Carotte  lavée;1.92;kg
+2022-05-01;Carotte;Carotte  lavée;2.03;kg
+2022-06-01;Carotte;Carotte  lavée;2.39;kg
+2022-07-01;Carotte;Carotte  lavée;2.48;kg
+2022-08-01;Carotte;Carotte  lavée;2.51;kg
+2022-09-01;Carotte;Carotte  lavée;2.58;kg
+2022-10-01;Carotte;Carotte  lavée;2.48;kg
+2022-11-01;Carotte;Carotte  lavée;2.54;kg
+2022-12-01;Carotte;Carotte  lavée;2.47;kg
+2022-03-01;Carotte;Carotte  non lavée;2.63;kg
+2022-04-01;Carotte;Carotte  non lavée;2.54;kg
+2022-05-01;Carotte;Carotte  non lavée;2.72;kg
+2022-06-01;Carotte;Carotte  non lavée;3.26;kg
+2022-07-01;Carotte;Carotte  non lavée;3.06;kg
+2022-08-01;Carotte;Carotte  non lavée;3.1;kg
+2022-09-01;Carotte;Carotte  non lavée;3.1;kg
+2022-10-01;Carotte;Carotte  non lavée;2.93;kg
+2022-11-01;Carotte;Carotte  non lavée;2.98;kg
+2022-12-01;Carotte;Carotte  non lavée;2.85;kg
+2022-05-01;Concombre;Concombre;5.42;kg
+2022-06-01;Concombre;Concombre;4.42;kg
+2022-07-01;Concombre;Concombre;4.38;kg
+2022-08-01;Concombre;Concombre;4.58;kg
+2022-09-01;Concombre;Concombre;5.65;kg
+2022-10-01;Concombre;Concombre;5.8;kg
+2022-11-01;Concombre;Concombre;5.0;kg
+2022-12-01;Concombre;Concombre;5.0;kg
+2022-05-01;Concombre;Concombre noa;5.36;kg
+2022-06-01;Concombre;Concombre noa;4.67;kg
+2022-07-01;Concombre;Concombre noa;3.66;kg
+2022-08-01;Concombre;Concombre noa;3.81;kg
+2022-09-01;Concombre;Concombre noa;4.35;kg
+2022-10-01;Concombre;Concombre noa;4.44;kg
+2022-04-01;Concombre;Concombre noa u.e.;3.9;kg
+2022-05-01;Concombre;Concombre noa u.e.;4.26;kg
+2022-03-01;Concombre;Concombre u.e.;4.62;kg
+2022-04-01;Concombre;Concombre u.e.;5.52;kg
+2022-05-01;Concombre;Concombre u.e.;5.02;kg
+2022-09-01;Concombre;Concombre u.e.;5.7;kg
+2022-03-01;Butternut;Courge butternut;2.86;kg
+2022-04-01;Butternut;Courge butternut;2.73;kg
+2022-09-01;Butternut;Courge butternut;3.2;kg
+2022-10-01;Butternut;Courge butternut;2.9;kg
+2022-11-01;Butternut;Courge butternut;2.6;kg
+2022-12-01;Butternut;Courge butternut;2.48;kg
+2022-03-01;Potimarron;Courge potimarron;3.29;kg
+2022-04-01;Potimarron;Courge potimarron;2.95;kg
+2022-09-01;Potimarron;Courge potimarron;3.25;kg
+2022-10-01;Potimarron;Courge potimarron;2.75;kg
+2022-11-01;Potimarron;Courge potimarron;2.6;kg
+2022-12-01;Potimarron;Courge potimarron;2.47;kg
+2022-04-01;Courgette;Courgette verte;5.89;kg
+2022-05-01;Courgette;Courgette verte;4.01;kg
+2022-06-01;Courgette;Courgette verte;2.72;kg
+2022-07-01;Courgette;Courgette verte;2.46;kg
+2022-08-01;Courgette;Courgette verte;2.41;kg
+2022-09-01;Courgette;Courgette verte;3.37;kg
+2022-10-01;Courgette;Courgette verte;5.09;kg
+2022-11-01;Courgette;Courgette verte;5.94;kg
+2022-12-01;Courgette;Courgette verte;6.29;kg
+2022-03-01;Courgette;Courgette verte u.e.;3.81;kg
+2022-04-01;Courgette;Courgette verte u.e.;4.32;kg
+2022-05-01;Courgette;Courgette verte u.e.;5.07;kg
+2022-11-01;Courgette;Courgette verte u.e.;5.21;kg
+2022-12-01;Courgette;Courgette verte u.e.;4.98;kg
+2022-03-01;Laitue;Laitue batavia;2.78;kg
+2022-04-01;Laitue;Laitue batavia;2.87;kg
+2022-05-01;Laitue;Laitue batavia;2.87;kg
+2022-06-01;Laitue;Laitue batavia;2.82;kg
+2022-07-01;Laitue;Laitue batavia;2.89;kg
+2022-08-01;Laitue;Laitue batavia;2.93;kg
+2022-09-01;Laitue;Laitue batavia;3.22;kg
+2022-10-01;Laitue;Laitue batavia;3.24;kg
+2022-11-01;Laitue;Laitue batavia;3.07;kg
+2022-12-01;Laitue;Laitue batavia;2.91;kg
+2022-03-01;Laitue;Laitue feuille de chêne blonde;2.78;kg
+2022-04-01;Laitue;Laitue feuille de chêne blonde;2.89;kg
+2022-05-01;Laitue;Laitue feuille de chêne blonde;2.89;kg
+2022-06-01;Laitue;Laitue feuille de chêne blonde;2.84;kg
+2022-07-01;Laitue;Laitue feuille de chêne blonde;2.82;kg
+2022-08-01;Laitue;Laitue feuille de chêne blonde;2.84;kg
+2022-09-01;Laitue;Laitue feuille de chêne blonde;3.31;kg
+2022-10-01;Laitue;Laitue feuille de chêne blonde;3.22;kg
+2022-11-01;Laitue;Laitue feuille de chêne blonde;3.02;kg
+2022-12-01;Laitue;Laitue feuille de chêne blonde;2.96;kg
+2022-03-01;Laitue;Laitue feuille de chêne rouge;2.8;kg
+2022-04-01;Laitue;Laitue feuille de chêne rouge;2.89;kg
+2022-05-01;Laitue;Laitue feuille de chêne rouge;2.84;kg
+2022-06-01;Laitue;Laitue feuille de chêne rouge;2.89;kg
+2022-07-01;Laitue;Laitue feuille de chêne rouge;2.82;kg
+2022-08-01;Laitue;Laitue feuille de chêne rouge;2.96;kg
+2022-09-01;Laitue;Laitue feuille de chêne rouge;3.18;kg
+2022-10-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2022-11-01;Laitue;Laitue feuille de chêne rouge;3.13;kg
+2022-12-01;Laitue;Laitue feuille de chêne rouge;3.0;kg
+2022-03-01;Laitue;Laitue pommée;2.82;kg
+2022-04-01;Laitue;Laitue pommée;2.91;kg
+2022-05-01;Laitue;Laitue pommée;2.93;kg
+2022-06-01;Laitue;Laitue pommée;2.91;kg
+2022-07-01;Laitue;Laitue pommée;2.93;kg
+2022-08-01;Laitue;Laitue pommée;2.96;kg
+2022-09-01;Laitue;Laitue pommée;3.13;kg
+2022-10-01;Laitue;Laitue pommée;3.16;kg
+2022-11-01;Laitue;Laitue pommée;3.09;kg
+2022-12-01;Laitue;Laitue pommée;2.89;kg
+2022-03-01;Poireau;Poireau;2.55;kg
+2022-04-01;Poireau;Poireau;2.5;kg
+2022-05-01;Poireau;Poireau;3.0;kg
+2022-06-01;Poireau;Poireau;4.2;kg
+2022-07-01;Poireau;Poireau;4.48;kg
+2022-08-01;Poireau;Poireau;4.43;kg
+2022-09-01;Poireau;Poireau;4.47;kg
+2022-10-01;Poireau;Poireau;4.19;kg
+2022-11-01;Poireau;Poireau;3.65;kg
+2022-12-01;Poireau;Poireau;3.26;kg
+2022-03-01;Pomme de terre;Pomme de terre de conservation;1.97;kg
+2022-04-01;Pomme de terre;Pomme de terre de conservation;1.92;kg
+2022-05-01;Pomme de terre;Pomme de terre de conservation;1.94;kg
+2022-06-01;Pomme de terre;Pomme de terre de conservation;1.94;kg
+2022-07-01;Pomme de terre;Pomme de terre de conservation;2.01;kg
+2022-08-01;Pomme de terre;Pomme de terre de conservation;2.18;kg
+2022-09-01;Pomme de terre;Pomme de terre de conservation;2.24;kg
+2022-10-01;Pomme de terre;Pomme de terre de conservation;2.16;kg
+2022-11-01;Pomme de terre;Pomme de terre de conservation;2.09;kg
+2022-12-01;Pomme de terre;Pomme de terre de conservation;2.09;kg
+2022-04-01;Pomme de terre;Pomme de terre primeur;7.74;kg
+2022-05-01;Pomme de terre;Pomme de terre primeur;5.25;kg
+2022-06-01;Pomme de terre;Pomme de terre primeur;4.15;kg
+2022-07-01;Pomme de terre;Pomme de terre primeur;3.34;kg
+2022-05-01;Tomate;Tomate allongée coeur;7.78;kg
+2022-06-01;Tomate;Tomate allongée coeur;6.39;kg
+2022-07-01;Tomate;Tomate allongée coeur;4.94;kg
+2022-08-01;Tomate;Tomate allongée coeur;4.65;kg
+2022-09-01;Tomate;Tomate allongée coeur;5.75;kg
+2022-10-01;Tomate;Tomate allongée coeur;5.53;kg
+2022-05-01;Tomate;Tomate anciennes;8.36;kg
+2022-06-01;Tomate;Tomate anciennes;6.56;kg
+2022-07-01;Tomate;Tomate anciennes;5.31;kg
+2022-08-01;Tomate;Tomate anciennes;4.96;kg
+2022-09-01;Tomate;Tomate anciennes;5.83;kg
+2022-10-01;Tomate;Tomate anciennes;6.3;kg
+2022-11-01;Tomate;Tomate anciennes;6.34;kg
+2022-05-01;Tomate;Tomate cerise;10.78;kg
+2022-06-01;Tomate;Tomate cerise;9.11;kg
+2022-07-01;Tomate;Tomate cerise;7.6;kg
+2022-08-01;Tomate;Tomate cerise;7.4;kg
+2022-09-01;Tomate;Tomate cerise;7.81;kg
+2022-10-01;Tomate;Tomate cerise;7.91;kg
+2022-11-01;Tomate;Tomate cerise;6.91;kg
+2022-06-01;Tomate;Tomate cerise  grappe;8.25;kg
+2022-07-01;Tomate;Tomate cerise  grappe;7.01;kg
+2022-08-01;Tomate;Tomate cerise  grappe;6.56;kg
+2022-09-01;Tomate;Tomate cerise  grappe;7.09;kg
+2022-04-01;Tomate;Tomate cerise u.e.;7.24;kg
+2022-05-01;Tomate;Tomate cerise u.e.;6.84;kg
+2022-06-01;Tomate;Tomate cerise u.e.;5.77;kg
+2022-04-01;Tomate;Tomate cerise u.e. grappe;7.22;kg
+2022-05-01;Tomate;Tomate cerise u.e. grappe;6.79;kg
+2022-06-01;Tomate;Tomate cerise u.e. grappe;5.28;kg
+2022-06-01;Tomate;Tomate ronde;4.26;kg
+2022-07-01;Tomate;Tomate ronde;3.66;kg
+2022-08-01;Tomate;Tomate ronde;3.19;kg
+2022-09-01;Tomate;Tomate ronde;3.58;kg
+2022-10-01;Tomate;Tomate ronde;4.28;kg
+2022-11-01;Tomate;Tomate ronde;4.23;kg
+2022-05-01;Tomate;Tomate ronde  grappe;5.86;kg
+2022-06-01;Tomate;Tomate ronde  grappe;4.62;kg
+2022-07-01;Tomate;Tomate ronde  grappe;3.33;kg
+2022-08-01;Tomate;Tomate ronde  grappe;2.87;kg
+2022-09-01;Tomate;Tomate ronde  grappe;3.76;kg
+2022-10-01;Tomate;Tomate ronde  grappe;4.61;kg
+2022-11-01;Tomate;Tomate ronde  grappe;4.41;kg
+2022-12-01;Tomate;Tomate ronde  grappe;3.89;kg
+2022-04-01;Tomate;Tomate ronde u.e. grappe;5.78;kg
+2022-05-01;Tomate;Tomate ronde u.e. grappe;5.42;kg
+2022-06-01;Tomate;Tomate ronde u.e. grappe;4.91;kg
+2022-11-01;Tomate;Tomate ronde u.e. grappe;4.54;kg
+2022-12-01;Tomate;Tomate ronde u.e. grappe;3.48;kg
+2025-01-01;Carotte;Carotte  lavée;2.4;kg
+2025-02-01;Carotte;Carotte  lavée;2.45;kg
+2025-03-01;Carotte;Carotte  lavée;2.46;kg
+2025-04-01;Carotte;Carotte  lavée;2.56;kg
+2025-05-01;Carotte;Carotte  lavée;2.64;kg
+2025-06-01;Carotte;Carotte  lavée;2.91;kg
+2025-07-01;Carotte;Carotte  lavée;2.79;kg
+2025-08-01;Carotte;Carotte  lavée;2.8;kg
+2025-09-01;Carotte;Carotte  lavée;2.76;kg
+2025-10-01;Carotte;Carotte  lavée;2.66;kg
+2025-11-01;Carotte;Carotte  lavée;2.5;kg
+2025-12-01;Carotte;Carotte  lavée;2.49;kg
+2025-01-01;Carotte;Carotte  non lavée;2.87;kg
+2025-02-01;Carotte;Carotte  non lavée;2.85;kg
+2025-03-01;Carotte;Carotte  non lavée;2.81;kg
+2025-04-01;Carotte;Carotte  non lavée;2.92;kg
+2025-05-01;Carotte;Carotte  non lavée;3.26;kg
+2025-06-01;Carotte;Carotte  non lavée;3.53;kg
+2025-07-01;Carotte;Carotte  non lavée;3.7;kg
+2025-08-01;Carotte;Carotte  non lavée;3.59;kg
+2025-09-01;Carotte;Carotte  non lavée;3.29;kg
+2025-10-01;Carotte;Carotte  non lavée;3.17;kg
+2025-11-01;Carotte;Carotte  non lavée;2.99;kg
+2025-12-01;Carotte;Carotte  non lavée;2.86;kg
+2025-03-01;Concombre;Concombre;5.65;kg
+2025-04-01;Concombre;Concombre;5.78;kg
+2025-05-01;Concombre;Concombre;5.25;kg
+2025-06-01;Concombre;Concombre;4.5;kg
+2025-07-01;Concombre;Concombre;4.88;kg
+2025-08-01;Concombre;Concombre;5.1;kg
+2025-09-01;Concombre;Concombre;5.5;kg
+2025-10-01;Concombre;Concombre;5.72;kg
+2025-11-01;Concombre;Concombre;5.45;kg
+2025-12-01;Concombre;Concombre;5.28;kg
+2025-07-01;Concombre;Concombre noa;3.86;kg
+2025-08-01;Concombre;Concombre noa;3.94;kg
+2025-09-01;Concombre;Concombre noa;3.98;kg
+2025-10-01;Concombre;Concombre noa;4.11;kg
+2025-03-01;Concombre;Concombre u.e.;5.58;kg
+2025-04-01;Concombre;Concombre u.e.;5.35;kg
+2025-05-01;Concombre;Concombre u.e.;5.22;kg
+2025-01-01;Butternut;Courge butternut;2.92;kg
+2025-02-01;Butternut;Courge butternut;3.08;kg
+2025-03-01;Butternut;Courge butternut;3.29;kg
+2025-04-01;Butternut;Courge butternut;3.38;kg
+2025-08-01;Butternut;Courge butternut;3.81;kg
+2025-09-01;Butternut;Courge butternut;3.49;kg
+2025-10-01;Butternut;Courge butternut;2.93;kg
+2025-11-01;Butternut;Courge butternut;2.59;kg
+2025-12-01;Butternut;Courge butternut;2.66;kg
+2025-01-01;Potimarron;Courge potimarron;3.11;kg
+2025-02-01;Potimarron;Courge potimarron;3.45;kg
+2025-03-01;Potimarron;Courge potimarron;3.52;kg
+2025-08-01;Potimarron;Courge potimarron;4.55;kg
+2025-09-01;Potimarron;Courge potimarron;3.33;kg
+2025-10-01;Potimarron;Courge potimarron;2.8;kg
+2025-11-01;Potimarron;Courge potimarron;2.61;kg
+2025-12-01;Potimarron;Courge potimarron;2.62;kg
+2025-04-01;Courgette;Courgette verte;5.92;kg
+2025-05-01;Courgette;Courgette verte;3.48;kg
+2025-06-01;Courgette;Courgette verte;2.91;kg
+2025-07-01;Courgette;Courgette verte;2.7;kg
+2025-08-01;Courgette;Courgette verte;2.92;kg
+2025-09-01;Courgette;Courgette verte;3.4;kg
+2025-10-01;Courgette;Courgette verte;4.08;kg
+2025-11-01;Courgette;Courgette verte;4.45;kg
+2025-01-01;Courgette;Courgette verte u.e.;5.03;kg
+2025-02-01;Courgette;Courgette verte u.e.;5.08;kg
+2025-03-01;Courgette;Courgette verte u.e.;3.77;kg
+2025-04-01;Courgette;Courgette verte u.e.;4.36;kg
+2025-05-01;Courgette;Courgette verte u.e.;4.72;kg
+2025-11-01;Courgette;Courgette verte u.e.;4.07;kg
+2025-12-01;Courgette;Courgette verte u.e.;4.36;kg
+2025-01-01;Laitue;Laitue batavia;3.33;kg
+2025-02-01;Laitue;Laitue batavia;3.29;kg
+2025-03-01;Laitue;Laitue batavia;3.33;kg
+2025-04-01;Laitue;Laitue batavia;3.31;kg
+2025-05-01;Laitue;Laitue batavia;3.36;kg
+2025-06-01;Laitue;Laitue batavia;3.31;kg
+2025-07-01;Laitue;Laitue batavia;3.22;kg
+2025-08-01;Laitue;Laitue batavia;3.27;kg
+2025-09-01;Laitue;Laitue batavia;3.33;kg
+2025-10-01;Laitue;Laitue batavia;3.24;kg
+2025-11-01;Laitue;Laitue batavia;3.22;kg
+2025-12-01;Laitue;Laitue batavia;3.2;kg
+2025-01-01;Laitue;Laitue feuille de chêne blonde;3.33;kg
+2025-02-01;Laitue;Laitue feuille de chêne blonde;3.33;kg
+2025-03-01;Laitue;Laitue feuille de chêne blonde;3.44;kg
+2025-04-01;Laitue;Laitue feuille de chêne blonde;3.42;kg
+2025-05-01;Laitue;Laitue feuille de chêne blonde;3.47;kg
+2025-06-01;Laitue;Laitue feuille de chêne blonde;3.31;kg
+2025-07-01;Laitue;Laitue feuille de chêne blonde;3.27;kg
+2025-08-01;Laitue;Laitue feuille de chêne blonde;3.33;kg
+2025-09-01;Laitue;Laitue feuille de chêne blonde;3.33;kg
+2025-10-01;Laitue;Laitue feuille de chêne blonde;3.31;kg
+2025-11-01;Laitue;Laitue feuille de chêne blonde;3.27;kg
+2025-12-01;Laitue;Laitue feuille de chêne blonde;3.22;kg
+2025-01-01;Laitue;Laitue feuille de chêne rouge;3.36;kg
+2025-02-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2025-03-01;Laitue;Laitue feuille de chêne rouge;3.42;kg
+2025-04-01;Laitue;Laitue feuille de chêne rouge;3.42;kg
+2025-05-01;Laitue;Laitue feuille de chêne rouge;3.42;kg
+2025-06-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2025-07-01;Laitue;Laitue feuille de chêne rouge;3.31;kg
+2025-08-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2025-09-01;Laitue;Laitue feuille de chêne rouge;3.36;kg
+2025-10-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2025-11-01;Laitue;Laitue feuille de chêne rouge;3.29;kg
+2025-12-01;Laitue;Laitue feuille de chêne rouge;3.24;kg
+2025-01-01;Laitue;Laitue pommée;3.31;kg
+2025-02-01;Laitue;Laitue pommée;3.31;kg
+2025-03-01;Laitue;Laitue pommée;3.51;kg
+2025-04-01;Laitue;Laitue pommée;3.42;kg
+2025-05-01;Laitue;Laitue pommée;3.42;kg
+2025-06-01;Laitue;Laitue pommée;3.42;kg
+2025-07-01;Laitue;Laitue pommée;3.27;kg
+2025-08-01;Laitue;Laitue pommée;3.27;kg
+2025-09-01;Laitue;Laitue pommée;3.31;kg
+2025-10-01;Laitue;Laitue pommée;3.22;kg
+2025-11-01;Laitue;Laitue pommée;3.2;kg
+2025-12-01;Laitue;Laitue pommée;3.16;kg
+2025-01-01;Poireau;Poireau;4.61;kg
+2025-02-01;Poireau;Poireau;4.62;kg
+2025-03-01;Poireau;Poireau;4.6;kg
+2025-04-01;Poireau;Poireau;3.97;kg
+2025-05-01;Poireau;Poireau;5.14;kg
+2025-06-01;Poireau;Poireau;6.14;kg
+2025-07-01;Poireau;Poireau;5.59;kg
+2025-08-01;Poireau;Poireau;5.35;kg
+2025-09-01;Poireau;Poireau;4.88;kg
+2025-10-01;Poireau;Poireau;4.06;kg
+2025-11-01;Poireau;Poireau;3.55;kg
+2025-12-01;Poireau;Poireau;3.46;kg
+2025-01-01;Pomme de terre;Pomme de terre de conservation;2.52;kg
+2025-02-01;Pomme de terre;Pomme de terre de conservation;2.45;kg
+2025-03-01;Pomme de terre;Pomme de terre de conservation;2.53;kg
+2025-04-01;Pomme de terre;Pomme de terre de conservation;2.57;kg
+2025-05-01;Pomme de terre;Pomme de terre de conservation;2.61;kg
+2025-06-01;Pomme de terre;Pomme de terre de conservation;2.63;kg
+2025-07-01;Pomme de terre;Pomme de terre de conservation;2.7;kg
+2025-08-01;Pomme de terre;Pomme de terre de conservation;2.77;kg
+2025-09-01;Pomme de terre;Pomme de terre de conservation;2.62;kg
+2025-10-01;Pomme de terre;Pomme de terre de conservation;2.41;kg
+2025-11-01;Pomme de terre;Pomme de terre de conservation;2.4;kg
+2025-12-01;Pomme de terre;Pomme de terre de conservation;2.37;kg
+2025-04-01;Pomme de terre;Pomme de terre primeur;6.16;kg
+2025-05-01;Pomme de terre;Pomme de terre primeur;6.33;kg
+2025-06-01;Pomme de terre;Pomme de terre primeur;4.83;kg
+2025-07-01;Pomme de terre;Pomme de terre primeur;4.19;kg
+2025-08-01;Pomme de terre;Pomme de terre primeur;3.63;kg
+2025-05-01;Tomate;Tomate allongée coeur;7.03;kg
+2025-06-01;Tomate;Tomate allongée coeur;5.41;kg
+2025-07-01;Tomate;Tomate allongée coeur;5.48;kg
+2025-08-01;Tomate;Tomate allongée coeur;6.46;kg
+2025-09-01;Tomate;Tomate allongée coeur;5.62;kg
+2025-05-01;Tomate;Tomate anciennes;8.31;kg
+2025-06-01;Tomate;Tomate anciennes;6.51;kg
+2025-07-01;Tomate;Tomate anciennes;5.86;kg
+2025-08-01;Tomate;Tomate anciennes;6.02;kg
+2025-09-01;Tomate;Tomate anciennes;6.54;kg
+2025-10-01;Tomate;Tomate anciennes;6.39;kg
+2025-11-01;Tomate;Tomate anciennes;6.38;kg
+2025-05-01;Tomate;Tomate cerise;12.38;kg
+2025-06-01;Tomate;Tomate cerise;10.08;kg
+2025-07-01;Tomate;Tomate cerise;9.79;kg
+2025-08-01;Tomate;Tomate cerise;9.81;kg
+2025-09-01;Tomate;Tomate cerise;10.11;kg
+2025-10-01;Tomate;Tomate cerise;9.61;kg
+2025-11-01;Tomate;Tomate cerise;8.4;kg
+2025-03-01;Tomate;Tomate cerise u.e.;8.21;kg
+2025-04-01;Tomate;Tomate cerise u.e.;8.52;kg
+2025-05-01;Tomate;Tomate cerise u.e.;7.28;kg
+2025-06-01;Tomate;Tomate cerise u.e.;6.87;kg
+2025-07-01;Tomate;Tomate cerise u.e.;7.15;kg
+2025-08-01;Tomate;Tomate cerise u.e.;7.18;kg
+2025-07-01;Tomate;Tomate ronde;3.86;kg
+2025-08-01;Tomate;Tomate ronde;4.0;kg
+2025-09-01;Tomate;Tomate ronde;4.1;kg
+2025-10-01;Tomate;Tomate ronde;4.63;kg
+2025-05-01;Tomate;Tomate ronde  grappe;5.56;kg
+2025-06-01;Tomate;Tomate ronde  grappe;4.74;kg
+2025-07-01;Tomate;Tomate ronde  grappe;3.99;kg
+2025-08-01;Tomate;Tomate ronde  grappe;4.22;kg
+2025-09-01;Tomate;Tomate ronde  grappe;4.78;kg
+2025-10-01;Tomate;Tomate ronde  grappe;4.93;kg
+2025-11-01;Tomate;Tomate ronde  grappe;4.96;kg
+2025-12-01;Tomate;Tomate ronde  grappe;5.23;kg
+2025-04-01;Tomate;Tomate ronde u.e.;4.63;kg
+2025-05-01;Tomate;Tomate ronde u.e.;4.53;kg
+2025-06-01;Tomate;Tomate ronde u.e.;5.23;kg
+2025-03-01;Tomate;Tomate ronde u.e. grappe;4.66;kg
+2025-04-01;Tomate;Tomate ronde u.e. grappe;4.97;kg
+2025-05-01;Tomate;Tomate ronde u.e. grappe;5.09;kg
+2025-06-01;Tomate;Tomate ronde u.e. grappe;4.88;kg
+2024-01-01;Carotte;Carotte  lavée;2.44;kg
+2024-02-01;Carotte;Carotte  lavée;2.53;kg
+2024-03-01;Carotte;Carotte  lavée;2.64;kg
+2024-04-01;Carotte;Carotte  lavée;2.93;kg
+2024-05-01;Carotte;Carotte  lavée;3.13;kg
+2024-06-01;Carotte;Carotte  lavée;3.08;kg
+2024-07-01;Carotte;Carotte  lavée;3.04;kg
+2024-08-01;Carotte;Carotte  lavée;2.99;kg
+2024-09-01;Carotte;Carotte  lavée;2.74;kg
+2024-10-01;Carotte;Carotte  lavée;2.54;kg
+2024-11-01;Carotte;Carotte  lavée;2.5;kg
+2024-12-01;Carotte;Carotte  lavée;2.4;kg
+2024-01-01;Carotte;Carotte  non lavée;2.83;kg
+2024-02-01;Carotte;Carotte  non lavée;2.87;kg
+2024-03-01;Carotte;Carotte  non lavée;2.9;kg
+2024-04-01;Carotte;Carotte  non lavée;2.86;kg
+2024-05-01;Carotte;Carotte  non lavée;3.03;kg
+2024-06-01;Carotte;Carotte  non lavée;3.28;kg
+2024-07-01;Carotte;Carotte  non lavée;3.43;kg
+2024-08-01;Carotte;Carotte  non lavée;3.42;kg
+2024-09-01;Carotte;Carotte  non lavée;3.02;kg
+2024-10-01;Carotte;Carotte  non lavée;2.88;kg
+2024-11-01;Carotte;Carotte  non lavée;2.9;kg
+2024-12-01;Carotte;Carotte  non lavée;2.88;kg
+2024-03-01;Concombre;Concombre;4.7;kg
+2024-04-01;Concombre;Concombre;4.95;kg
+2024-05-01;Concombre;Concombre;4.62;kg
+2024-06-01;Concombre;Concombre;4.45;kg
+2024-07-01;Concombre;Concombre;4.32;kg
+2024-08-01;Concombre;Concombre;4.28;kg
+2024-09-01;Concombre;Concombre;5.45;kg
+2024-10-01;Concombre;Concombre;6.12;kg
+2024-11-01;Concombre;Concombre;5.05;kg
+2024-05-01;Concombre;Concombre noa;6.54;kg
+2024-06-01;Concombre;Concombre noa;5.72;kg
+2024-07-01;Concombre;Concombre noa;4.86;kg
+2024-08-01;Concombre;Concombre noa;4.22;kg
+2024-09-01;Concombre;Concombre noa;4.62;kg
+2024-10-01;Concombre;Concombre noa;5.4;kg
+2024-06-01;Concombre;Concombre noa u.e.;5.42;kg
+2024-10-01;Concombre;Concombre u.e.;5.45;kg
+2024-11-01;Concombre;Concombre u.e.;5.95;kg
+2024-01-01;Butternut;Courge butternut;2.73;kg
+2024-02-01;Butternut;Courge butternut;2.76;kg
+2024-03-01;Butternut;Courge butternut;3.17;kg
+2024-04-01;Butternut;Courge butternut;3.33;kg
+2024-08-01;Butternut;Courge butternut;4.2;kg
+2024-09-01;Butternut;Courge butternut;3.47;kg
+2024-10-01;Butternut;Courge butternut;2.76;kg
+2024-11-01;Butternut;Courge butternut;2.68;kg
+2024-12-01;Butternut;Courge butternut;2.67;kg
+2024-01-01;Potimarron;Courge potimarron;2.97;kg
+2024-02-01;Potimarron;Courge potimarron;3.31;kg
+2024-03-01;Potimarron;Courge potimarron;3.29;kg
+2024-04-01;Potimarron;Courge potimarron;3.1;kg
+2024-08-01;Potimarron;Courge potimarron;4.31;kg
+2024-09-01;Potimarron;Courge potimarron;3.51;kg
+2024-10-01;Potimarron;Courge potimarron;2.76;kg
+2024-11-01;Potimarron;Courge potimarron;2.75;kg
+2024-12-01;Potimarron;Courge potimarron;2.71;kg
+2024-04-01;Courgette;Courgette verte;5.29;kg
+2024-05-01;Courgette;Courgette verte;4.45;kg
+2024-06-01;Courgette;Courgette verte;4.33;kg
+2024-07-01;Courgette;Courgette verte;3.49;kg
+2024-08-01;Courgette;Courgette verte;2.71;kg
+2024-09-01;Courgette;Courgette verte;3.14;kg
+2024-10-01;Courgette;Courgette verte;5.45;kg
+2024-11-01;Courgette;Courgette verte;5.39;kg
+2024-01-01;Courgette;Courgette verte u.e.;5.79;kg
+2024-03-01;Courgette;Courgette verte u.e.;3.7;kg
+2024-04-01;Courgette;Courgette verte u.e.;3.84;kg
+2024-05-01;Courgette;Courgette verte u.e.;4.4;kg
+2024-10-01;Courgette;Courgette verte u.e.;5.42;kg
+2024-11-01;Courgette;Courgette verte u.e.;5.62;kg
+2024-12-01;Courgette;Courgette verte u.e.;5.23;kg
+2024-01-01;Laitue;Laitue batavia;3.22;kg
+2024-02-01;Laitue;Laitue batavia;3.18;kg
+2024-03-01;Laitue;Laitue batavia;3.13;kg
+2024-04-01;Laitue;Laitue batavia;3.24;kg
+2024-05-01;Laitue;Laitue batavia;3.38;kg
+2024-06-01;Laitue;Laitue batavia;3.36;kg
+2024-07-01;Laitue;Laitue batavia;3.36;kg
+2024-08-01;Laitue;Laitue batavia;3.29;kg
+2024-09-01;Laitue;Laitue batavia;3.36;kg
+2024-10-01;Laitue;Laitue batavia;3.36;kg
+2024-11-01;Laitue;Laitue batavia;3.33;kg
+2024-12-01;Laitue;Laitue batavia;3.29;kg
+2024-01-01;Laitue;Laitue feuille de chêne blonde;3.2;kg
+2024-02-01;Laitue;Laitue feuille de chêne blonde;3.18;kg
+2024-03-01;Laitue;Laitue feuille de chêne blonde;3.16;kg
+2024-04-01;Laitue;Laitue feuille de chêne blonde;3.22;kg
+2024-05-01;Laitue;Laitue feuille de chêne blonde;3.36;kg
+2024-06-01;Laitue;Laitue feuille de chêne blonde;3.47;kg
+2024-07-01;Laitue;Laitue feuille de chêne blonde;3.38;kg
+2024-08-01;Laitue;Laitue feuille de chêne blonde;3.24;kg
+2024-09-01;Laitue;Laitue feuille de chêne blonde;3.33;kg
+2024-10-01;Laitue;Laitue feuille de chêne blonde;3.36;kg
+2024-11-01;Laitue;Laitue feuille de chêne blonde;3.38;kg
+2024-12-01;Laitue;Laitue feuille de chêne blonde;3.33;kg
+2024-01-01;Laitue;Laitue feuille de chêne rouge;3.04;kg
+2024-02-01;Laitue;Laitue feuille de chêne rouge;3.16;kg
+2024-03-01;Laitue;Laitue feuille de chêne rouge;3.11;kg
+2024-04-01;Laitue;Laitue feuille de chêne rouge;3.2;kg
+2024-05-01;Laitue;Laitue feuille de chêne rouge;3.29;kg
+2024-06-01;Laitue;Laitue feuille de chêne rouge;3.31;kg
+2024-07-01;Laitue;Laitue feuille de chêne rouge;3.31;kg
+2024-08-01;Laitue;Laitue feuille de chêne rouge;3.31;kg
+2024-09-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2024-10-01;Laitue;Laitue feuille de chêne rouge;3.33;kg
+2024-11-01;Laitue;Laitue feuille de chêne rouge;3.38;kg
+2024-12-01;Laitue;Laitue feuille de chêne rouge;3.38;kg
+2024-01-01;Laitue;Laitue pommée;3.22;kg
+2024-02-01;Laitue;Laitue pommée;3.09;kg
+2024-03-01;Laitue;Laitue pommée;3.2;kg
+2024-04-01;Laitue;Laitue pommée;3.29;kg
+2024-05-01;Laitue;Laitue pommée;3.22;kg
+2024-06-01;Laitue;Laitue pommée;3.29;kg
+2024-07-01;Laitue;Laitue pommée;3.27;kg
+2024-08-01;Laitue;Laitue pommée;3.2;kg
+2024-09-01;Laitue;Laitue pommée;3.29;kg
+2024-10-01;Laitue;Laitue pommée;3.24;kg
+2024-11-01;Laitue;Laitue pommée;3.33;kg
+2024-12-01;Laitue;Laitue pommée;3.29;kg
+2024-01-01;Poireau;Poireau;3.89;kg
+2024-02-01;Poireau;Poireau;3.55;kg
+2024-03-01;Poireau;Poireau;3.54;kg
+2024-04-01;Poireau;Poireau;3.47;kg
+2024-05-01;Poireau;Poireau;5.62;kg
+2024-06-01;Poireau;Poireau;6.31;kg
+2024-07-01;Poireau;Poireau;5.85;kg
+2024-08-01;Poireau;Poireau;5.23;kg
+2024-09-01;Poireau;Poireau;4.58;kg
+2024-10-01;Poireau;Poireau;4.39;kg
+2024-11-01;Poireau;Poireau;3.95;kg
+2024-12-01;Poireau;Poireau;3.94;kg
+2024-01-01;Pomme de terre;Pomme de terre de conservation;2.1;kg
+2024-02-01;Pomme de terre;Pomme de terre de conservation;2.1;kg
+2024-03-01;Pomme de terre;Pomme de terre de conservation;2.21;kg
+2024-04-01;Pomme de terre;Pomme de terre de conservation;2.26;kg
+2024-05-01;Pomme de terre;Pomme de terre de conservation;2.31;kg
+2024-06-01;Pomme de terre;Pomme de terre de conservation;2.45;kg
+2024-07-01;Pomme de terre;Pomme de terre de conservation;2.63;kg
+2024-08-01;Pomme de terre;Pomme de terre de conservation;2.85;kg
+2024-09-01;Pomme de terre;Pomme de terre de conservation;2.73;kg
+2024-10-01;Pomme de terre;Pomme de terre de conservation;2.6;kg
+2024-11-01;Pomme de terre;Pomme de terre de conservation;2.54;kg
+2024-12-01;Pomme de terre;Pomme de terre de conservation;2.54;kg
+2024-03-01;Pomme de terre;Pomme de terre primeur;7.26;kg
+2024-04-01;Pomme de terre;Pomme de terre primeur;7.42;kg
+2024-05-01;Pomme de terre;Pomme de terre primeur;6.37;kg
+2024-06-01;Pomme de terre;Pomme de terre primeur;5.11;kg
+2024-07-01;Pomme de terre;Pomme de terre primeur;4.03;kg
+2024-08-01;Pomme de terre;Pomme de terre primeur;3.69;kg
+2024-05-01;Tomate;Tomate allongée coeur;7.91;kg
+2024-06-01;Tomate;Tomate allongée coeur;6.33;kg
+2024-07-01;Tomate;Tomate allongée coeur;5.0;kg
+2024-08-01;Tomate;Tomate allongée coeur;5.17;kg
+2024-09-01;Tomate;Tomate allongée coeur;5.83;kg
+2024-05-01;Tomate;Tomate anciennes;8.43;kg
+2024-06-01;Tomate;Tomate anciennes;6.55;kg
+2024-07-01;Tomate;Tomate anciennes;5.6;kg
+2024-08-01;Tomate;Tomate anciennes;5.61;kg
+2024-09-01;Tomate;Tomate anciennes;6.45;kg
+2024-10-01;Tomate;Tomate anciennes;6.99;kg
+2024-11-01;Tomate;Tomate anciennes;6.5;kg
+2024-05-01;Tomate;Tomate cerise;9.21;kg
+2024-06-01;Tomate;Tomate cerise;9.7;kg
+2024-07-01;Tomate;Tomate cerise;9.18;kg
+2024-08-01;Tomate;Tomate cerise;9.0;kg
+2024-09-01;Tomate;Tomate cerise;9.64;kg
+2024-10-01;Tomate;Tomate cerise;10.27;kg
+2024-11-01;Tomate;Tomate cerise;10.08;kg
+2024-07-01;Tomate;Tomate cerise  grappe;7.19;kg
+2024-05-01;Tomate;Tomate cerise u.e.;6.06;kg
+2024-06-01;Tomate;Tomate cerise u.e.;5.95;kg
+2024-07-01;Tomate;Tomate cerise u.e.;6.21;kg
+2024-06-01;Tomate;Tomate ronde;5.2;kg
+2024-07-01;Tomate;Tomate ronde;4.21;kg
+2024-08-01;Tomate;Tomate ronde;3.59;kg
+2024-09-01;Tomate;Tomate ronde;4.03;kg
+2024-10-01;Tomate;Tomate ronde;4.87;kg
+2024-11-01;Tomate;Tomate ronde;4.91;kg
+2024-05-01;Tomate;Tomate ronde  grappe;5.14;kg
+2024-06-01;Tomate;Tomate ronde  grappe;4.16;kg
+2024-07-01;Tomate;Tomate ronde  grappe;3.91;kg
+2024-08-01;Tomate;Tomate ronde  grappe;3.83;kg
+2024-09-01;Tomate;Tomate ronde  grappe;4.54;kg
+2024-10-01;Tomate;Tomate ronde  grappe;5.95;kg
+2024-11-01;Tomate;Tomate ronde  grappe;5.34;kg
+2024-12-01;Tomate;Tomate ronde  grappe;4.41;kg
+2024-05-01;Tomate;Tomate ronde u.e.;4.96;kg
+2024-06-01;Tomate;Tomate ronde u.e.;4.13;kg
+2024-03-01;Tomate;Tomate ronde u.e. grappe;4.01;kg
+2024-04-01;Tomate;Tomate ronde u.e. grappe;4.12;kg
+2024-05-01;Tomate;Tomate ronde u.e. grappe;4.19;kg
+2024-06-01;Tomate;Tomate ronde u.e. grappe;4.37;kg

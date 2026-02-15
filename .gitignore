@@ -1,0 +1,24 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Mac
+.DS_Store
+
+# Secrets
+.env
+secrets.toml
+secrets.txt
+.txt
+
+#ignorer dossier entier
+Brouillon/
+

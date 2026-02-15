@@ -1,0 +1,372 @@
+Date,Categorie,Prix
+2022-03-01,Butternut,2.86
+2022-03-01,Carotte,2.34
+2022-03-01,Concombre,4.62
+2022-03-01,Courgette,3.81
+2022-03-01,Laitue,2.8
+2022-03-01,Poireau,2.55
+2022-03-01,Pomme de terre,1.97
+2022-03-01,Potimarron,3.29
+2022-04-01,Butternut,2.73
+2022-04-01,Carotte,2.23
+2022-04-01,Concombre,4.71
+2022-04-01,Courgette,5.11
+2022-04-01,Laitue,2.89
+2022-04-01,Poireau,2.5
+2022-04-01,Pomme de terre,4.83
+2022-04-01,Potimarron,2.95
+2022-04-01,Tomate,6.75
+2022-05-01,Carotte,2.38
+2022-05-01,Concombre,5.01
+2022-05-01,Courgette,4.54
+2022-05-01,Laitue,2.88
+2022-05-01,Poireau,3.0
+2022-05-01,Pomme de terre,3.6
+2022-05-01,Tomate,7.4
+2022-06-01,Carotte,2.82
+2022-06-01,Concombre,4.54
+2022-06-01,Courgette,2.72
+2022-06-01,Laitue,2.86
+2022-06-01,Poireau,4.2
+2022-06-01,Pomme de terre,3.04
+2022-06-01,Tomate,6.13
+2022-07-01,Carotte,2.77
+2022-07-01,Concombre,4.02
+2022-07-01,Courgette,2.46
+2022-07-01,Laitue,2.86
+2022-07-01,Poireau,4.48
+2022-07-01,Pomme de terre,2.68
+2022-07-01,Tomate,5.31
+2022-08-01,Carotte,2.8
+2022-08-01,Concombre,4.2
+2022-08-01,Courgette,2.41
+2022-08-01,Laitue,2.92
+2022-08-01,Poireau,4.43
+2022-08-01,Pomme de terre,2.18
+2022-08-01,Tomate,4.94
+2022-09-01,Butternut,3.2
+2022-09-01,Carotte,2.84
+2022-09-01,Concombre,5.23
+2022-09-01,Courgette,3.37
+2022-09-01,Laitue,3.21
+2022-09-01,Poireau,4.47
+2022-09-01,Pomme de terre,2.24
+2022-09-01,Potimarron,3.25
+2022-09-01,Tomate,5.64
+2022-10-01,Butternut,2.9
+2022-10-01,Carotte,2.7
+2022-10-01,Concombre,5.12
+2022-10-01,Courgette,5.09
+2022-10-01,Laitue,3.24
+2022-10-01,Poireau,4.19
+2022-10-01,Pomme de terre,2.16
+2022-10-01,Potimarron,2.75
+2022-10-01,Tomate,5.73
+2022-11-01,Butternut,2.6
+2022-11-01,Carotte,2.76
+2022-11-01,Concombre,5.0
+2022-11-01,Courgette,5.58
+2022-11-01,Laitue,3.08
+2022-11-01,Poireau,3.65
+2022-11-01,Pomme de terre,2.09
+2022-11-01,Potimarron,2.6
+2022-11-01,Tomate,5.29
+2022-12-01,Butternut,2.48
+2022-12-01,Carotte,2.66
+2022-12-01,Concombre,5.0
+2022-12-01,Courgette,5.64
+2022-12-01,Laitue,2.94
+2022-12-01,Poireau,3.26
+2022-12-01,Pomme de terre,2.09
+2022-12-01,Potimarron,2.47
+2022-12-01,Tomate,3.68
+2023-01-01,Butternut,2.59
+2023-01-01,Carotte,2.6
+2023-01-01,Courgette,3.75
+2023-01-01,Laitue,2.95
+2023-01-01,Poireau,3.25
+2023-01-01,Pomme de terre,2.04
+2023-01-01,Potimarron,2.62
+2023-02-01,Butternut,2.72
+2023-02-01,Carotte,2.58
+2023-02-01,Courgette,4.36
+2023-02-01,Laitue,3.1
+2023-02-01,Poireau,3.07
+2023-02-01,Pomme de terre,1.93
+2023-02-01,Potimarron,3.12
+2023-03-01,Butternut,2.9
+2023-03-01,Carotte,2.62
+2023-03-01,Concombre,5.85
+2023-03-01,Courgette,3.5
+2023-03-01,Laitue,3.19
+2023-03-01,Poireau,3.13
+2023-03-01,Pomme de terre,4.92
+2023-03-01,Potimarron,3.22
+2023-03-01,Tomate,6.59
+2023-04-01,Butternut,3.0
+2023-04-01,Carotte,2.78
+2023-04-01,Concombre,5.05
+2023-04-01,Courgette,4.25
+2023-04-01,Laitue,3.24
+2023-04-01,Poireau,3.16
+2023-04-01,Pomme de terre,4.63
+2023-04-01,Potimarron,2.84
+2023-04-01,Tomate,6.22
+2023-05-01,Carotte,3.16
+2023-05-01,Concombre,5.24
+2023-05-01,Courgette,3.25
+2023-05-01,Laitue,3.2
+2023-05-01,Poireau,4.19
+2023-05-01,Pomme de terre,4.24
+2023-05-01,Tomate,7.41
+2023-06-01,Carotte,3.34
+2023-06-01,Concombre,4.59
+2023-06-01,Courgette,3.36
+2023-06-01,Laitue,3.18
+2023-06-01,Poireau,5.09
+2023-06-01,Pomme de terre,3.68
+2023-06-01,Tomate,6.26
+2023-07-01,Carotte,3.1
+2023-07-01,Concombre,3.94
+2023-07-01,Courgette,2.55
+2023-07-01,Laitue,3.1
+2023-07-01,Poireau,5.22
+2023-07-01,Pomme de terre,2.94
+2023-07-01,Tomate,5.7
+2023-08-01,Butternut,3.22
+2023-08-01,Carotte,3.0
+2023-08-01,Concombre,3.9
+2023-08-01,Courgette,3.01
+2023-08-01,Laitue,3.22
+2023-08-01,Poireau,5.33
+2023-08-01,Pomme de terre,2.82
+2023-08-01,Potimarron,3.3
+2023-08-01,Tomate,5.17
+2023-09-01,Butternut,3.24
+2023-09-01,Carotte,2.78
+2023-09-01,Concombre,4.42
+2023-09-01,Courgette,3.32
+2023-09-01,Laitue,3.29
+2023-09-01,Poireau,4.63
+2023-09-01,Pomme de terre,2.53
+2023-09-01,Potimarron,3.22
+2023-09-01,Tomate,5.71
+2023-10-01,Butternut,2.98
+2023-10-01,Carotte,2.66
+2023-10-01,Concombre,4.53
+2023-10-01,Courgette,3.54
+2023-10-01,Laitue,3.42
+2023-10-01,Poireau,3.8
+2023-10-01,Pomme de terre,2.35
+2023-10-01,Potimarron,2.84
+2023-10-01,Tomate,6.11
+2023-11-01,Butternut,2.61
+2023-11-01,Carotte,2.58
+2023-11-01,Concombre,5.0
+2023-11-01,Courgette,4.38
+2023-11-01,Laitue,3.49
+2023-11-01,Poireau,3.57
+2023-11-01,Pomme de terre,2.16
+2023-11-01,Potimarron,2.64
+2023-11-01,Tomate,6.44
+2023-12-01,Butternut,2.58
+2023-12-01,Carotte,2.65
+2023-12-01,Concombre,4.45
+2023-12-01,Courgette,5.23
+2023-12-01,Laitue,3.39
+2023-12-01,Poireau,3.55
+2023-12-01,Pomme de terre,2.19
+2023-12-01,Potimarron,2.72
+2024-01-01,Butternut,2.73
+2024-01-01,Carotte,2.64
+2024-01-01,Courgette,5.79
+2024-01-01,Laitue,3.17
+2024-01-01,Poireau,3.89
+2024-01-01,Pomme de terre,2.1
+2024-01-01,Potimarron,2.97
+2024-02-01,Butternut,2.76
+2024-02-01,Carotte,2.7
+2024-02-01,Laitue,3.15
+2024-02-01,Poireau,3.55
+2024-02-01,Pomme de terre,2.1
+2024-02-01,Potimarron,3.31
+2024-03-01,Butternut,3.17
+2024-03-01,Carotte,2.77
+2024-03-01,Concombre,4.7
+2024-03-01,Courgette,3.7
+2024-03-01,Laitue,3.15
+2024-03-01,Poireau,3.54
+2024-03-01,Pomme de terre,4.73
+2024-03-01,Potimarron,3.29
+2024-03-01,Tomate,4.01
+2024-04-01,Butternut,3.33
+2024-04-01,Carotte,2.9
+2024-04-01,Concombre,4.95
+2024-04-01,Courgette,4.56
+2024-04-01,Laitue,3.24
+2024-04-01,Poireau,3.47
+2024-04-01,Pomme de terre,4.84
+2024-04-01,Potimarron,3.1
+2024-04-01,Tomate,4.12
+2024-05-01,Carotte,3.08
+2024-05-01,Concombre,5.58
+2024-05-01,Courgette,4.43
+2024-05-01,Laitue,3.31
+2024-05-01,Poireau,5.62
+2024-05-01,Pomme de terre,4.34
+2024-05-01,Tomate,6.56
+2024-06-01,Carotte,3.18
+2024-06-01,Concombre,5.2
+2024-06-01,Courgette,4.33
+2024-06-01,Laitue,3.36
+2024-06-01,Poireau,6.31
+2024-06-01,Pomme de terre,3.78
+2024-06-01,Tomate,5.8
+2024-07-01,Carotte,3.24
+2024-07-01,Concombre,4.59
+2024-07-01,Courgette,3.49
+2024-07-01,Laitue,3.33
+2024-07-01,Poireau,5.85
+2024-07-01,Pomme de terre,3.33
+2024-07-01,Tomate,5.9
+2024-08-01,Butternut,4.2
+2024-08-01,Carotte,3.2
+2024-08-01,Concombre,4.25
+2024-08-01,Courgette,2.71
+2024-08-01,Laitue,3.26
+2024-08-01,Poireau,5.23
+2024-08-01,Pomme de terre,3.27
+2024-08-01,Potimarron,4.31
+2024-08-01,Tomate,5.44
+2024-09-01,Butternut,3.47
+2024-09-01,Carotte,2.88
+2024-09-01,Concombre,5.04
+2024-09-01,Courgette,3.14
+2024-09-01,Laitue,3.33
+2024-09-01,Poireau,4.58
+2024-09-01,Pomme de terre,2.73
+2024-09-01,Potimarron,3.51
+2024-09-01,Tomate,6.1
+2024-10-01,Butternut,2.76
+2024-10-01,Carotte,2.71
+2024-10-01,Concombre,5.66
+2024-10-01,Courgette,5.44
+2024-10-01,Laitue,3.32
+2024-10-01,Poireau,4.39
+2024-10-01,Pomme de terre,2.6
+2024-10-01,Potimarron,2.76
+2024-10-01,Tomate,7.02
+2024-11-01,Butternut,2.68
+2024-11-01,Carotte,2.7
+2024-11-01,Concombre,5.5
+2024-11-01,Courgette,5.5
+2024-11-01,Laitue,3.36
+2024-11-01,Poireau,3.95
+2024-11-01,Pomme de terre,2.54
+2024-11-01,Potimarron,2.75
+2024-11-01,Tomate,6.71
+2024-12-01,Butternut,2.67
+2024-12-01,Carotte,2.64
+2024-12-01,Courgette,5.23
+2024-12-01,Laitue,3.32
+2024-12-01,Poireau,3.94
+2024-12-01,Pomme de terre,2.54
+2024-12-01,Potimarron,2.71
+2024-12-01,Tomate,4.41
+2025-01-01,Butternut,2.92
+2025-01-01,Carotte,2.64
+2025-01-01,Courgette,5.03
+2025-01-01,Laitue,3.33
+2025-01-01,Poireau,4.61
+2025-01-01,Pomme de terre,2.52
+2025-01-01,Potimarron,3.11
+2025-02-01,Butternut,3.08
+2025-02-01,Carotte,2.65
+2025-02-01,Courgette,5.08
+2025-02-01,Laitue,3.32
+2025-02-01,Poireau,4.62
+2025-02-01,Pomme de terre,2.45
+2025-02-01,Potimarron,3.45
+2025-03-01,Butternut,3.29
+2025-03-01,Carotte,2.64
+2025-03-01,Concombre,5.62
+2025-03-01,Courgette,3.77
+2025-03-01,Laitue,3.42
+2025-03-01,Poireau,4.6
+2025-03-01,Pomme de terre,2.53
+2025-03-01,Potimarron,3.52
+2025-03-01,Tomate,6.44
+2025-04-01,Butternut,3.38
+2025-04-01,Carotte,2.74
+2025-04-01,Concombre,5.56
+2025-04-01,Courgette,5.14
+2025-04-01,Laitue,3.39
+2025-04-01,Poireau,3.97
+2025-04-01,Pomme de terre,4.36
+2025-04-01,Tomate,6.04
+2025-05-01,Carotte,2.95
+2025-05-01,Concombre,5.24
+2025-05-01,Courgette,4.1
+2025-05-01,Laitue,3.42
+2025-05-01,Poireau,5.14
+2025-05-01,Pomme de terre,4.47
+2025-05-01,Tomate,7.17
+2025-06-01,Carotte,3.22
+2025-06-01,Concombre,4.5
+2025-06-01,Courgette,2.91
+2025-06-01,Laitue,3.34
+2025-06-01,Poireau,6.14
+2025-06-01,Pomme de terre,3.73
+2025-06-01,Tomate,6.25
+2025-07-01,Carotte,3.24
+2025-07-01,Concombre,4.37
+2025-07-01,Courgette,2.7
+2025-07-01,Laitue,3.27
+2025-07-01,Poireau,5.59
+2025-07-01,Pomme de terre,3.44
+2025-07-01,Tomate,6.02
+2025-08-01,Butternut,3.81
+2025-08-01,Carotte,3.2
+2025-08-01,Concombre,4.52
+2025-08-01,Courgette,2.92
+2025-08-01,Laitue,3.3
+2025-08-01,Poireau,5.35
+2025-08-01,Pomme de terre,3.2
+2025-08-01,Potimarron,4.55
+2025-08-01,Tomate,6.28
+2025-09-01,Butternut,3.49
+2025-09-01,Carotte,3.02
+2025-09-01,Concombre,4.74
+2025-09-01,Courgette,3.4
+2025-09-01,Laitue,3.33
+2025-09-01,Poireau,4.88
+2025-09-01,Pomme de terre,2.62
+2025-09-01,Potimarron,3.33
+2025-09-01,Tomate,6.23
+2025-10-01,Butternut,2.93
+2025-10-01,Carotte,2.92
+2025-10-01,Concombre,4.92
+2025-10-01,Courgette,4.08
+2025-10-01,Laitue,3.28
+2025-10-01,Poireau,4.06
+2025-10-01,Pomme de terre,2.41
+2025-10-01,Potimarron,2.8
+2025-10-01,Tomate,6.39
+2025-11-01,Butternut,2.59
+2025-11-01,Carotte,2.74
+2025-11-01,Concombre,5.45
+2025-11-01,Courgette,4.26
+2025-11-01,Laitue,3.24
+2025-11-01,Poireau,3.55
+2025-11-01,Pomme de terre,2.4
+2025-11-01,Potimarron,2.61
+2025-11-01,Tomate,6.58
+2025-12-01,Butternut,2.66
+2025-12-01,Carotte,2.68
+2025-12-01,Concombre,5.28
+2025-12-01,Courgette,4.36
+2025-12-01,Laitue,3.2
+2025-12-01,Poireau,3.46
+2025-12-01,Pomme de terre,2.37
+2025-12-01,Potimarron,2.62
+2025-12-01,Tomate,5.23
