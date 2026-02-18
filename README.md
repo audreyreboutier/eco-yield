@@ -12,3 +12,6 @@ Financier : Démontrer si le "travail de la terre" surpasse le rendement des pla
 Data : Centraliser des sources hétérogènes (prix retail, météo, taux bancaires) pour une aide à la décision rationnelle.
 
 Audrey Reboutier.
+
+
+gcloud builds submit
